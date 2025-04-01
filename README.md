@@ -2,9 +2,9 @@
 
 
 - 🔭 Hoje Trabalho com Front-end
-- 🌱 Estudando JavaScript
-- 👯 Estou procurando colaborar com desenvolvimento Front-end e sistemas web e mobile
-- 📫 Contate-me no email: lidierynascimento.ln@gmail.com
+- 🌱 Estudando ...
+- 👯 Estou procurando colaborar com desenvolvimento No Code, Low Lode, Dados e IA em sistemas web e mobile
+- 📫 Contate-me no email: imaggine.org@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Curiosidade: 
 -                 Maior parte de meus projetos envolvem os temas
@@ -12,6 +12,7 @@
                   🐶🐱🐘-Animais 
                   ☘️🌱🌏-Meio Ambiente
                   🖥️📊📌-Mercado Financeiro
+                  🛸🌍 - Inteligência Artificial
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lidyh-Pinheiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
